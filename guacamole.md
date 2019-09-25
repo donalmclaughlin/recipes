@@ -1,5 +1,6 @@
 # Ingredients
-.blah .blah
+.blah 
+.blah
 # Instructions
 .salt
 .lime
