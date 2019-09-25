@@ -1,4 +1,4 @@
 # Ingredients
 # Instructions
 .salt
-.lemon
+.lime
