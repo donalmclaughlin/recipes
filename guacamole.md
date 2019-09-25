@@ -2,3 +2,4 @@
 # Instructions
 .salt
 .lime
+.pepper
