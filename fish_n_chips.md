@@ -3,6 +3,8 @@
  - fish
  - chips
  - batter
+ - peas
+i
 # Instructions
 
  1. Fry fish
